@@ -250,7 +250,6 @@ th {
 }
 
 body {
-  background-color: lavender;
   font-size: 14px;
   line-height: 1.6;
   font-family: "Fira Sans", sans-serif;
@@ -478,7 +477,7 @@ input[type="button"]:focus {
 
 body {
   margin: 10px;
-  background-color: #ddd;
+  background-color: pink;
   overflow-x: hidden;
 }
 
