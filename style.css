@@ -476,6 +476,7 @@ input[type="button"]:focus {
 }
 
 body {
+  background-color: lavender;
   margin: 10px;
   overflow-x: hidden;
 }
